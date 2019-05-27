@@ -4,9 +4,9 @@
 \name{rpkg-package}
 \alias{rpkg}
 \alias{rpkg-package}
-\title{rpkg: What the Package Does (One Line, Title Case)}
+\title{rpkg: Oh an updated title!}
 \description{
-This package does nothing yet
+What the package does (one paragraph).
 }
 \author{
 \strong{Maintainer}: First Last \email{first.last@example.com} (YOUR-ORCID-ID)

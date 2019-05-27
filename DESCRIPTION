@@ -1,5 +1,5 @@
 Package: rpkg
-Title: What the Package Does (One Line, Title Case)
+Title: Oh an updated title!
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "First",
