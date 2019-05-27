@@ -4,7 +4,8 @@ rpkg
 ====
 
 <!-- badges: start -->
-<!-- badges: end -->
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/Danroduq/rpkg?branch=master&svg=true)](https://ci.appveyor.com/project/Danroduq/rpkg) <!-- badges: end -->
+
 The goal of rpkg is to ...
 
 Installation
